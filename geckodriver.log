@@ -1,0 +1,22 @@
+1513775705122	geckodriver	INFO	geckodriver 0.19.1
+1513775705136	geckodriver	INFO	Listening on 127.0.0.1:63762
+1513775708293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ddale\\AppData\\Local\\Temp\\rust_mozprofile.AqaxLuksedKC"
+1513775710038	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\ddale\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240052,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1513775714534	Marionette	INFO	Listening on port 63771
+1513775714953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513775715191	Marionette	DEBUG	Register listener.js for window 4294967297
+1513775715367	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513775718463	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513775718464	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513775721187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.booking.com/searchresults.ru.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGjCAYgBAZgBIcIBCndpbmRvd3MgMTDIAQzYAQHoAQH4AQuSAgF5qAID&sid=6b8e3d83b69499330279412a904e1bd4&checkin_month=1&checkin_monthday=4&checkin_year=2018&checkout_month=1&checkout_monthday=11&checkout_year=2018&class_interval=1&dest_id=-1898541&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&oos_flag=0&postcard=0&room1=A%2CA&sb_price_type=total&search_pageview_id=2f838df472d401ec&src=index&ss=%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD&ss_all=0&ssb=empty&sshis=0&nflt=class%3D5%3B&lsf=class%7C5%7C124&unchecked_filter=class"
+1513775721479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.booking.com/searchresults.ru.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGjCAYgBAZgBIcIBCndpbmRvd3MgMTDIAQzYAQHoAQH4AQuSAgF5qAID&sid=6b8e3d83b69499330279412a904e1bd4&checkin_month=1&checkin_monthday=4&checkin_year=2018&checkout_month=1&checkout_monthday=11&checkout_year=2018&class_interval=1&dest_id=-1898541&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&oos_flag=0&postcard=0&room1=A%2CA&sb_price_type=total&search_pageview_id=2f838df472d401ec&src=index&ss=%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD&ss_all=0&ssb=empty&sshis=0&nflt=class%3D5%3B&lsf=class%7C5%7C124&unchecked_filter=class"
+1513775725792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513775731493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513775737639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513775742504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
