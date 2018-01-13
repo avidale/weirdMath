@@ -48,3 +48,4 @@ Temporary Items
 
 trash/
 .ipynb_checkpoints
+.log
